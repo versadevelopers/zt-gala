@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a steakhouse with an appealing design, menu display, and reservation features, enhancing the dining experience for customers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
